@@ -1,0 +1,11 @@
+C:\Users\CoFFey\source\repos\СП6\СП6\bin\Debug\СП6.exe.config
+C:\Users\CoFFey\source\repos\СП6\СП6\bin\Debug\СП6.exe
+C:\Users\CoFFey\source\repos\СП6\СП6\bin\Debug\СП6.pdb
+C:\Users\CoFFey\source\repos\СП6\СП6\obj\Debug\СП6.csproj.AssemblyReference.cache
+C:\Users\CoFFey\source\repos\СП6\СП6\obj\Debug\СП6.csproj.SuggestedBindingRedirects.cache
+C:\Users\CoFFey\source\repos\СП6\СП6\obj\Debug\СП6.Form1.resources
+C:\Users\CoFFey\source\repos\СП6\СП6\obj\Debug\СП6.Properties.Resources.resources
+C:\Users\CoFFey\source\repos\СП6\СП6\obj\Debug\СП6.csproj.GenerateResource.cache
+C:\Users\CoFFey\source\repos\СП6\СП6\obj\Debug\СП6.csproj.CoreCompileInputs.cache
+C:\Users\CoFFey\source\repos\СП6\СП6\obj\Debug\СП6.exe
+C:\Users\CoFFey\source\repos\СП6\СП6\obj\Debug\СП6.pdb
